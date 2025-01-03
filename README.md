@@ -6,13 +6,9 @@
 
 This is the official PyTorch implementation of GrEASE from the paper ["Generalizable Spectral Embedding with Applications to UMAP]().<br>
 
-[//]: # (## Installation)
+[//]: # (See out [GitHub repository]&#40;https://github.com/shaham-lab/GrEASE&#41; for more information.)
 
-[//]: # (You can install the latest package version via)
-
-[//]: # (```bash)
-[//]: # (pip install spectralnet)
-[//]: # (```)
+The main application of GrEASE is NUMAP, a generalizable version of UMAP. The code for NUMAP can be found [here](https://github.com/shaham-lab/NUMAP).
 
 ## Installation
 To install the package, simply use the following command:
