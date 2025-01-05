@@ -2,11 +2,10 @@
 
 <p align="center">
 
-[//]: # (    <img src="https://github.com/shaham-lab/SpectralNet/blob/main/figures/twomoons.png">)
+[//]: # (This is the official PyTorch implementation of GrEASE from the paper ["Generalizable Spectral Embedding with Applications to UMAP]&#40;&#41;.<br>)
+This is the official PyTorch implementation of GrEASE: Generalizable and Efficient Approximate Spectral Embedding.
 
-This is the official PyTorch implementation of GrEASE from the paper ["Generalizable Spectral Embedding with Applications to UMAP]().<br>
-
-[//]: # (See out [GitHub repository]&#40;https://github.com/shaham-lab/GrEASE&#41; for more information.)
+See our [GitHub repository](https://github.com/shaham-lab/GrEASE) for more information.
 
 The main application of GrEASE is NUMAP, a generalizable version of UMAP. The code for NUMAP can be found [here](https://github.com/shaham-lab/NUMAP).
 
